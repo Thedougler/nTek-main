@@ -19,6 +19,9 @@ Taking cues from Dieter Rams, our products seamlessly blend into your living spa
 - **This is just a nerd's passion project:**
 I'm not some massive corporation trying to calculate the most profitable methods of skimping on quality to maximize quarterly returns for shareholders. I'm just a nerd who wants to make cool stuff. I'm not going to cut corners to save a few bucks. I'm not going to use cheap components that will break in a year. I intend to make tech that I want to use myself and its a nice bonus if others want to use it too. Passion over profit is the name of the game here. As long as I can keep the lights on and the servers running, I'm happy.
 
+- **Whats happens if your designs are stolen?**
+I intend to take it as a compliment. If you want to go through the trouble of copying my designs and ordering parts, attaching them to a pcb or breadboard, then fitting that in an enclosure, and then flashing the firmware, and then configuring it to work with your home assistant, then more power to you. Probably easier and cheaper just to get my pre-made device though. I'm not going to waste my time and money on lawyers to try and stop you. I'm just going to keep making cool stuff and you can keep on copying it. I'm not going to lose any sleep over it.
+
 ## **What were making right now**
 
 ### **[ MS1](devices/ms1.md)**
