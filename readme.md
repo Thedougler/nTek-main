@@ -43,6 +43,7 @@ Introducing the De-Chonker Smart Pet Feeder, powered by an ESP32 microcontroller
 - Seamless Multiple Pet Differentiation
 - Effortless Automatic Portion Control
 
-## Very Far Away Projects 2025+
 
-[Hub](hub.md)
+## Projects on the Drawing Board
+
+- [Hub](hub.md): A single box to handle to handle your home internet, wifi, and automation. All preconfigured to work together harmoniously with minimal user input. Fully accessible and open source backend for geeks to play with, customized easy web frontend for everyone else. 
