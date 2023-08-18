@@ -18,7 +18,7 @@ Aesthetics meet functionality with nTek's design philosophy. Taking cues from Di
 
 ## **What were doing right now in 2023**
 
-**[Introducing the nTek MS1: Initial Proof of Concept](devices/ms1.md)**
+**[Introducing the nTek MS1: Initial Proof of Concept](devices/ms1/readme.md)**
 
 Meet our first creation: the nTek MS1 It's an exploration of what's possible, a proof of concept that embodies our philosophy. Here's a snapshot of what the MS1 brings to your smart home:
 
@@ -32,7 +32,7 @@ While the MS1 marks our first step, we're already eyeing the horizon for more fo
 
 ## **Upcoming Projects 2024**
 
-### **[De-Chonker Smart Pet Feeder: Technical Overview](devices/dechonker.md)**
+### **[De-Chonker Smart Pet Feeder: Technical Overview](devices/dechonker/readme.md)**
 
 Introducing the De-Chonker Smart Pet Feeder, powered by an ESP32 microcontroller and Zigbee radio. Central to its innovation is the load sensor, which revolutionizes pet care by offering:
 
@@ -46,4 +46,4 @@ Introducing the De-Chonker Smart Pet Feeder, powered by an ESP32 microcontroller
 
 ## Projects on the Drawing Board
 
-- [Hub](devices/hub.md): A single box to handle to handle your home internet, wifi, and automation. All preconfigured to work together harmoniously with minimal user input. Fully accessible and open source backend for geeks to play with, customized easy web frontend for everyone else. 
+- **[Hub](devices/hub/readme.md):** A single box to handle to handle your home internet, wifi, and automation. All preconfigured to work together harmoniously with minimal user input. Fully accessible and open source backend for geeks to play with, customized easy web frontend for everyone else. 
