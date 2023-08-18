@@ -33,7 +33,7 @@ Meet our first creation: the nTek MS1. It's an exploration of what's possible, a
 - **Zigbee Communication**: Integrated Zigbee radio with an integrated router handles seamless communication within your smart home network.
 - **Power and Connectivity**: Power is supplied via USB, making it convenient to integrate the MS1 into your setup.
 
-[MS1] (ms1.md)
+[MS1](ms1.md)
 
 **Looking Ahead**
 
