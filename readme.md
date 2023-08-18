@@ -42,3 +42,7 @@ Introducing the De-Chonker Smart Pet Feeder, powered by an ESP32 microcontroller
 - Insightful Pet Calorie Consumption Tracking
 - Seamless Multiple Pet Differentiation
 - Effortless Automatic Portion Control
+
+## Very Far Away Projects 
+
+[Hub](hub.md)
