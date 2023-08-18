@@ -16,7 +16,7 @@ Who said tech has to be complicated? Our plug-and-play ethos ensures that even i
 - **Clean Minimalist Design Inspired by Dieter Rams:**
 Aesthetics meet functionality with nTek's design philosophy. Taking cues from Dieter Rams, our products seamlessly blend into your living space – a marriage of form and function.
 
-## **What were doing right now**
+## **What were doing right now in 2023**
 
 **[Introducing the nTek MS1: Initial Proof of Concept](ms1.md)**
 
@@ -30,7 +30,7 @@ Meet our first creation: the nTek MS1 It's an exploration of what's possible, a 
 **Future Versions**
 While the MS1 marks our first step, we're already eyeing the horizon for more focused versions. Imagine the MS1c, equipped with local voice control powered by high-quality microphones and onboard AI acceleration. Or the MS1b, which stretches the battery life using deep sleep techniques – perfect for those locations where a cable is just too ugly.
 
-## **Upcoming Projects**
+## **Upcoming Projects 2024**
 
 ### **[De-Chonker Smart Pet Feeder: Technical Overview](dechonker.md)**
 
@@ -43,6 +43,6 @@ Introducing the De-Chonker Smart Pet Feeder, powered by an ESP32 microcontroller
 - Seamless Multiple Pet Differentiation
 - Effortless Automatic Portion Control
 
-## Very Far Away Projects 
+## Very Far Away Projects 2025+
 
 [Hub](hub.md)
