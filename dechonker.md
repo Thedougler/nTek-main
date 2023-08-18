@@ -33,5 +33,3 @@ Discover the technology driving the De-Chonker's excellence:
 **Elevate Your Pet's Well-being**
 
 The De-Chonker isn't just about feeding; it's about nurturing your pet's health and happiness. Bid adieu to guesswork and embrace a future where technology and compassion unite.
-
-As we unveil the De-Chonker, stay tuned for updates as we continuously enhance the feeding experience. Your feedback drives us towards creating the ultimate pet feeding solution. Welcome to a new era of pet care!
