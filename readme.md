@@ -1,7 +1,6 @@
 # **nTek**
-We hope to assist all the nerds out there who, like me, want there home to feel like it's straight out of the Jetsons. We will accomplish that by:
+We hope to assist all the nerds out there who, like me, want there home to feel like it's straight out of the Jetsons. We will accomplish that whilst adhering to the following guiding principles.
 
-**Who We Are** 
 **Privacy First - Fully Local**
 We're putting your privacy first. With nTek, all operations and control stay within your home network. No cloud dependencies, no prying eyes – just you and your smart home.
 
