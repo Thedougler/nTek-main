@@ -1,4 +1,4 @@
-#**nTek Smart Home Products**#
+**nTek Smart Home Products**
 
 **Version 0.1 - Initial Commit**
 
