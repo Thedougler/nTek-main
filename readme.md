@@ -26,14 +26,12 @@ Aesthetics meet functionality with nTek's design philosophy. Taking cues from Di
 
 **Introducing the nTek MS1: Initial Proof of Concept**
 
-Meet our first creation: the nTek MS1. It's an exploration of what's possible, a proof of concept that embodies our philosophy. Here's a snapshot of what the MS1 brings to your smart home:
+Meet our first creation: the [nTek MS1](ms1.md). It's an exploration of what's possible, a proof of concept that embodies our philosophy. Here's a snapshot of what the MS1 brings to your smart home:
 
 - **Sensor Ensemble**: The MS1 is a multi-sensor wonder, featuring air temperature, humidity, luminance, motion detection, mmWave Radar, and Bluetooth Low Energy sensors.
 - **Rapid Updates**: Each sensor updates at a minimum interval of 2 seconds, ensuring real-time insights into your surroundings.
 - **Zigbee Communication**: Integrated Zigbee radio with an integrated router handles seamless communication within your smart home network.
 - **Power and Connectivity**: Power is supplied via USB, making it convenient to integrate the MS1 into your setup.
-
-[MS1](ms1.md)
 
 **Looking Ahead**
 
